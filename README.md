@@ -5,3 +5,7 @@ KARTIKEY SACHDEVA
 
 
 <img width="566" alt="fixed merge ss" src="https://github.com/kartikeysachdeva/ECE444-F2023-Assignment1/assets/69488258/a19b73f8-c655-46bc-b9a7-ac7ff89f3753">
+
+
+<img width="567" alt="utils push" src="https://github.com/kartikeysachdeva/ECE444-F2023-Assignment1/assets/69488258/e85bdddf-2792-4dd5-b129-d916594d0243">
+
